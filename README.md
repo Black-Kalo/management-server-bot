@@ -33,7 +33,7 @@ the best Admin bot
 # Dev:
  * [Manav Garg](https://github.com/ManavvGarg) -Code and Commands
  * [FirezTheGreat](https://github.com/FirezTheGreat) -File Structure and Message Events handler
- * [Black-Kalo] (https://github.com/Black-Kalo) -add 24/7 [added by myself], `[not in the developer]`
+ * [Black-Kalo] (https://github.com/Black-Kalo) -add 24/7 `[added by myself]` `[not in the developer]`
 
 # source code:
 * https://github.com/ManavvGarg/Discord-Moderation-Bot
